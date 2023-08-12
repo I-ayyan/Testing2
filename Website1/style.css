@@ -1,0 +1,31 @@
+a{
+    color: black !important;
+    border-radius: 40px 40px 40px 40 px groove black !important;
+}
+
+.hhh{
+    margin: auto !important;
+    
+}
+.card{
+    transition: 3s;
+    border: 3px groove !important;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    transition: 3s;
+    z-index: 1;
+    box-shadow: 0px 0px 15px black ;
+}
+
+nav{
+    background-color: gold;
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 100000 !important;
+}
+
+body{
+    background-color: gold !important;
+}
